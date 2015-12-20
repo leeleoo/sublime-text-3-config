@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"EasyMotion",
+		"Emmet",
+		"ES6-Toolkit",
+		"GotoLastEditEnhanced",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"LESS",
+		"Less Tabs",
+		"Markdown Extended",
+		"MultiEditUtils",
+		"Package Control",
+		"ReactJS",
+		"ReactJS Snippets",
+		"SublimeCodeIntel",
+		"Tag",
+		"Theme - Afterglow",
+		"Theme - Brogrammer",
+		"Theme - Spacegray",
+		"VIM Navigation"
+	]
+}
