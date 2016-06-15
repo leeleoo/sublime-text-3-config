@@ -2,9 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"IMESupport"
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"All Autocomplete",
 		"Auto Semi-Colon",
 		"AutoFileName",
@@ -13,6 +15,7 @@
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
+		"CSScomb",
 		"EasyMotion",
 		"Emmet",
 		"ES6-Toolkit",
@@ -21,6 +24,7 @@
 		"IMESupport",
 		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
 		"LESS",
 		"Less Tabs",
 		"Markdown Extended",
@@ -28,10 +32,13 @@
 		"Package Control",
 		"ReactJS",
 		"ReactJS Snippets",
+		"Seti_UI",
+		"Seti_UX",
 		"SublimeCodeIntel",
 		"Tag",
 		"Theme - Afterglow",
 		"Theme - Brogrammer",
+		"Theme - SodaSeti",
 		"Theme - Spacegray",
 		"VIM Navigation"
 	]
